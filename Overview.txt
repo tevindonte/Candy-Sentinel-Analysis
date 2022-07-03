@@ -1,0 +1,28 @@
+
+The Best Holloween Candy Breakdown 2017
+Data from "So Much Candy Data, Seriously" by DAVID NG
+https://www.scq.ubc.ca/so-much-candy-data-seriously/
+
+
+6/30-7/2
+Excel:
+Data Cleaning
+Correct Capitalization
+Removing unnecesarry items that would not be counted in Analysis
+Fixed & Sorted Country and State columns
+Fixed the headings of each column removing unncessary characters
+Added "other category" for Gender,Country,State and Day blank answers
+Changed Joy,Meh,Despair to Positive,Neutral,Negative
+Analyze Columns to make Python work easier
+Sort Data into 'Candy Data Summary' & 'Satisfaction Summary' & 'Top 5'
+
+
+7/2-
+Python:
+Top 5 - Create a graph (Top 5) *
+The Best Candy- Create a graph (Satisfaction vs Candy) | Positive Negative Neutral *
+The Best Candy based on country - Create a graph (Candy vs Country) United States Canada Other *
+The Best Candy based on gender - Create a graph (Gender vs Candy) Male Female Other
+The Best Candy based on age gap - Create a graph  (0-35,35-50,50-100 vs Candy) *
+
+
